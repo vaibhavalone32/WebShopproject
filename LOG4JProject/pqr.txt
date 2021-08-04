@@ -1,0 +1,5 @@
+debug information
+info method
+warn method
+error method
+fatal method
